@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.adaschool.Weather.WeatherReportServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-22T17:53:47" hostname="DESKTOP-5R56BK4" time="1.593">
+  <properties/>
+  <testcase name="testGetWeatherReport()" classname="org.adaschool.Weather.WeatherReportServiceTest" time="1.593"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
